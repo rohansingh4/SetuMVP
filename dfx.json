@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "SetuMVP_backend": {
+      "candid": "src/SetuMVP_backend/SetuMVP_backend.did",
+      "package": "SetuMVP_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
